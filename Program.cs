@@ -18,9 +18,5 @@ namespace SaintExperiences
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
-        //hola que tal?
-
-        //rocoo esta gordo
-
     }
 }
