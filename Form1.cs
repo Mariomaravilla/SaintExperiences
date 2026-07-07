@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace SaintExperiences
 {
-    public partial class Form1 : Form
+    public partial class frmLogin1 : Form
     {
-        public Form1()
+        public frmLogin1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
