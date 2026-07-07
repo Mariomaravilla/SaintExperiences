@@ -19,11 +19,6 @@ namespace SaintExperiences
             Application.Run(new Form1());
         }
 
-        //isaac hola xd
-
-        //mani gay JAJAJ xddd   
-
-
-        /// MI PENE EN TU CULO 
+        //hay que trabajar brother
     }
 }
