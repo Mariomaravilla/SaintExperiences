@@ -1,0 +1,9 @@
+C:\Users\Estudiante\Source\Repos\SaintExperiences\bin\Debug\SaintExperiences.exe.config
+C:\Users\Estudiante\Source\Repos\SaintExperiences\bin\Debug\SaintExperiences.exe
+C:\Users\Estudiante\Source\Repos\SaintExperiences\bin\Debug\SaintExperiences.pdb
+C:\Users\Estudiante\Source\Repos\SaintExperiences\obj\Debug\SaintExperiences.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Source\Repos\SaintExperiences\obj\Debug\SaintExperiences.Properties.Resources.resources
+C:\Users\Estudiante\Source\Repos\SaintExperiences\obj\Debug\SaintExperiences.csproj.GenerateResource.cache
+C:\Users\Estudiante\Source\Repos\SaintExperiences\obj\Debug\SaintExperiences.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Source\Repos\SaintExperiences\obj\Debug\SaintExperiences.exe
+C:\Users\Estudiante\Source\Repos\SaintExperiences\obj\Debug\SaintExperiences.pdb
